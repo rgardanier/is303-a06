@@ -1,0 +1,18 @@
+I wanted to write an analysis summary for the code that I just wrote. 
+
+What dataset did you use? Describe the data: how many rows and columns, what the columns represent, and where you got it.
+    The dataset that I chose was the one attached to the retail_analysis program. I downloaded it as a CSV file and added it to my folder in this repository. 
+    There was 6 columns in the dataset with abut 55 rows (not counting the header at the top). I got this from canvas and it was attached to the file that my teacher
+    provided. 
+What did you find? Summarize 2 to 3 key findings from your analysis. Reference your groupby results and chart.
+    I found that the data was very wrong and I had to clean it up in order for the end result to be accurate and appropriate. I found out that bowls are the most
+    ordered category in this dataset. I also found out that granola cups produce the most revenue. 
+What are the limitations? What could be misleading about your analysis? What additional data would make your conclusions stronger?
+    I think something that would be misleading from this data is the time of day or the season that we are in when this data was extracted. Maybe bowls are the most
+    common and popular category of food to buy, but this data could also be from summer months and that could be a factor for why that is the case. I also
+    think about the time of year. Not many people are going to get an acai bowl in the winter and sales could decrease during this time period. I think it would
+    be beneficial to put a timestamp for this data and make it known to the viewers when this data was recorded. It also looked like there were a lot of listings and receipts of
+    purchases at malls and things. I honestly think that malls are more popular in the summer months and would love to see the change in data if it were colder. 
+
+    I think it would also be cool to display the location and the most popular places to buy different items. I would love to add that next time I do something like this. 
+    
